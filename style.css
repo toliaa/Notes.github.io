@@ -1,0 +1,41 @@
+h1{
+    font-size: 30px;
+    font-family: 'Sofia Sans', sans-serif;
+}
+body{
+    background-color: rgb(253, 244, 232);
+}
+ul{
+    list-style: none;
+    margin-right: 50px;
+}
+li{
+    margin-right: 50px; 
+    padding-top: 10px;
+}
+sub{
+    font-size: small;
+}
+div{
+    text-align: center;
+  
+}
+textarea{
+    width: 1000px;
+    height: 500px;
+    border-radius: 10px;
+    display: inline-flex;
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    border: 1px;
+    background-color: wheat;
+    border-radius: 10px;
+
+
+}
+button:hover{
+    padding-right:10px ;
+    transition: 1000ms;
+}
+div#menu{}
